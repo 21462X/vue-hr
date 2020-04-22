@@ -1,4 +1,4 @@
-# micro-personnel
+# vue-hr
 
 ## Project setup
 ```
